@@ -10,7 +10,7 @@ import com.bumptech.glide.Glide
  * Created by Ali Göktaş on 01,February,2020
  */
 
-object ImageBindingAdapter {
+object BindingAdapter {
 
     @JvmStatic
     @BindingAdapter("imageUrl")
