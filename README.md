@@ -8,7 +8,7 @@ a simple app that contains some basic functionality. It connects to the Campaign
 
 
 ## Technologies
-- Dagger 2
+- [Dagger 2](https://www.google.com "Google's Homepage")
 - Retrofit 2 - OkHttp3
 - Glide
 - RxJava 2
